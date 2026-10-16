@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Cloud Student Services Portal",
+  "description": "Next-generation cloud-based student services and goal achievement portal for academic milestones, degree progress, campus advising, and career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
